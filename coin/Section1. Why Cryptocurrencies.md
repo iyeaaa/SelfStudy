@@ -1,4 +1,4 @@
-# 1.0 Why Cryptocurrencies
+# Why Cryptocurrencies
 
 
 
