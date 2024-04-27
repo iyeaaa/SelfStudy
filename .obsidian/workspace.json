@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "070e742fd8a831ba",
+        "id": "23423ffabd9dffdf",
         "type": "tabs",
         "children": [
           {
-            "id": "e9dc30299c6e9a1a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_1.jpg"
-              }
-            }
-          },
-          {
-            "id": "cc7906a0a1965344",
+            "id": "cae3a2f0a18d9656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Command Line/Section 5. 파일 시스템 탐색.md",
+                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,12 +80,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 252.5
   },
   "right": {
     "id": "acf43949ff2e0c13",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d5d139d770e51b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7370b78610e044b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a46a0a4da117fc22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9c70c1662c16c10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logical Circuit/Combination logic Circuit/디코더.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 498.5,
     "collapsed": true
@@ -111,30 +146,48 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc7906a0a1965344",
+  "active": "cae3a2f0a18d9656",
   "lastOpenFiles": [
+    "Logical Circuit/Combination logic Circuit.md",
+    "Logical Circuit/Combination logic Circuit/인코더.md",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram.md",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델.md",
+    "DB/데이터베이스 설계/데이터 모델.md",
+    "DB/데이터베이스 설계.md",
+    "Logical Circuit/Combination logic Circuit/디코더.md",
+    "Logical Circuit/Combination logic Circuit/멀티플렉서.md",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram/약한 개체 타입.md",
+    "Logical Circuit/Combination logic Circuit",
+    "Logical Circuit",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram/카디널리티 비율.md",
+    "DB/데이터베이스 설계/데이터베이스 설계단계.md",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram",
+    "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델",
+    "DB/데이터베이스 설계/데이터 모델",
+    "DB/데이터베이스 설계",
+    "DB/데이터 베이스 설계",
+    "DB/데이터 베이스 설계",
+    "DB",
+    "OS/Link.md",
+    "coin/Section2. FOUNDATIONS Introduction to Security and Wallets.md",
+    "Linux Command Line/Section 17. 퍼미션 변경하기.md",
+    "Linux Command Line/Section 5. 파일 시스템 탐색.md",
+    "resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_1.jpg",
     "coin/~$Complete+Cryptocurrency+Course+Dashboard+V3.xlsx",
-    "coin/2A617810",
-    "coin/BE175810",
+    "coin/Section1. Why Cryptocurrencies.md",
+    "Linux Command Line/Section 16. Understanding Permissions.md",
     "Linux Command Line/Section 8. Deleting, Moving and Copying.md",
     "Linux Command Line/Section 6. Creating Files & Folders.md",
-    "Linux Command Line/Section 5. 파일 시스템 탐색.md",
-    "coin/Section1. Why Cryptocurrencies.md",
-    "coin/Section2. FOUNDATIONS Introduction to Security and Wallets.md",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_1.jpg",
-    "Linux Command Line/resource/05_Creating_Files_And_Folders_3.jpg",
-    "Linux Command Line/resource/05_Creating_Files_And_Folders_4.jpg",
-    "Linux Command Line/resource/home directory in kali.jpg",
-    "Linux Command Line/resource/root directory in kali linux.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_7.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_6.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_5.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_4.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_3.jpg",
-    "Linux Command Line/resource/07_Deleting_Moving_Copying",
-    "Linux Command Line/05_Creating_Files_And_Folders",
+    "resource/bandicam 2024-04-24 01-44-15-301.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_22.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_21.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_20.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_19.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_18.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_17.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_16.jpg",
+    "resource/16_Altering_Permissions/16_Altering_Permissions_15.jpg",
     "무제 파일.canvas",
-    "2024-04-23.md",
-    "Linux Command Line/resource"
+    "2024-04-23.md"
   ]
 }
