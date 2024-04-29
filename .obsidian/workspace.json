@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
+                "file": "OS/File/File.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
+                "file": "OS/File/File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Circuit/Combination logic Circuit/디코더.md",
+                "file": "OS/File/File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Circuit/Combination logic Circuit/디코더.md"
+                "file": "OS/File/File.md"
               }
             }
           }
@@ -148,46 +148,52 @@
   },
   "active": "cae3a2f0a18d9656",
   "lastOpenFiles": [
+    "OS/File/Directory.md",
+    "OS/File/File.md",
+    "OS/File/File System Examples.md",
+    "OS/File/Management of Data Blocks.md",
+    "OS/File/File Systems.md",
+    "OS/File.md",
+    "OS/Link.md",
+    "OS/File",
+    "resource/강의자료-308.jpg",
+    "resource/강의자료-307.jpg",
+    "resource/강의자료-306.jpg",
+    "resource/강의자료-305.jpg",
+    "resource/강의자료-304.jpg",
+    "resource/강의자료-303.jpg",
+    "resource/강의자료-302.jpg",
+    "resource/강의자료-301.jpg",
+    "resource/강의자료-300.jpg",
+    "resource/강의자료-299.jpg",
+    "Computer-Networking_A-Top-Down-Approach-main/Chapter_1/1.1 인터넷이란 무엇인가_/README.md",
+    "Computer-Networking_A-Top-Down-Approach-main/Chapter_1/1.2 네트워크의 가장자리/README.md",
+    "Report/DC Lab7. Data Over Sound via unreliable medium.md",
+    "Data Communication/Content.md",
+    "Data Communication/Page Source/리드 솔로몬 코드 (Reed Solomon Code).md",
+    "Data Communication/Page Source/오류제어.md",
+    "DB/데이터베이스 설계/데이터베이스 설계단계.md",
+    "DB/데이터베이스 설계.md",
+    "Report",
+    "Logical Circuit/Combination logic Circuit/디코더.md",
+    "Data Communication/Page Source",
+    "Data Communication",
     "Logical Circuit/Combination logic Circuit.md",
     "Logical Circuit/Combination logic Circuit/인코더.md",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram.md",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델.md",
     "DB/데이터베이스 설계/데이터 모델.md",
-    "DB/데이터베이스 설계.md",
-    "Logical Circuit/Combination logic Circuit/디코더.md",
     "Logical Circuit/Combination logic Circuit/멀티플렉서.md",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram/약한 개체 타입.md",
     "Logical Circuit/Combination logic Circuit",
     "Logical Circuit",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram/카디널리티 비율.md",
-    "DB/데이터베이스 설계/데이터베이스 설계단계.md",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델/ER Diagram",
     "DB/데이터베이스 설계/데이터 모델/개념적 데이터 모델",
     "DB/데이터베이스 설계/데이터 모델",
     "DB/데이터베이스 설계",
-    "DB/데이터 베이스 설계",
-    "DB/데이터 베이스 설계",
-    "DB",
-    "OS/Link.md",
     "coin/Section2. FOUNDATIONS Introduction to Security and Wallets.md",
     "Linux Command Line/Section 17. 퍼미션 변경하기.md",
-    "Linux Command Line/Section 5. 파일 시스템 탐색.md",
-    "resource/07_Deleting_Moving_Copying/07_Deleting_Moving_Copying_1.jpg",
-    "coin/~$Complete+Cryptocurrency+Course+Dashboard+V3.xlsx",
-    "coin/Section1. Why Cryptocurrencies.md",
-    "Linux Command Line/Section 16. Understanding Permissions.md",
-    "Linux Command Line/Section 8. Deleting, Moving and Copying.md",
-    "Linux Command Line/Section 6. Creating Files & Folders.md",
-    "resource/bandicam 2024-04-24 01-44-15-301.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_22.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_21.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_20.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_19.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_18.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_17.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_16.jpg",
-    "resource/16_Altering_Permissions/16_Altering_Permissions_15.jpg",
-    "무제 파일.canvas",
-    "2024-04-23.md"
+    "무제 파일.canvas"
   ]
 }
